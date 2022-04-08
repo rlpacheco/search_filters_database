@@ -39,7 +39,7 @@ https://www.sign.ac.uk/what-we-do/methodology/search-filters/
 
 * Busca em bases de dados eletrônicas da área da saúde: por onde começar
 
-*Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
+*Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.*
 
 https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
@@ -47,6 +47,15 @@ https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 # Filters' original sources
 
 # 1) Clinical trials / therapy filters
+
+**Embase**
+
+** [Cochrane filter](rct_Embase_Cochrane):
+
+https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/rcts/embase-rct-filter
+
+*Glanville J, Foxlee R, Wisniewski S, Noel-Storr A, Edwards M, Dooley G. Translating the Cochrane EMBASE RCT filter from the Ovid interface to Embase.com: a case study. Health Info Libr J. 2019 Sep;36(3):264-277. doi: 10.1111/hir.12269*
+
 
 **PUBMED**
 
