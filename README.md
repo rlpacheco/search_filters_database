@@ -86,6 +86,11 @@ https://bestpractice.bmj.com/info/toolkit/learn-ebm/study-design-search-filters/
 
 https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
+We also adapted the CADTH filter excluding the line : medline OR cochrane OR pubmed OR medlars OR embase OR cinahl. This made the search much more specific.
+
+[CADTH_adapted](sr_Embase_adaptada_CADTH)
+
+
 **PUBMED**
 
 ** [clinical queries systematic sb](sr_PUBMED_clinical_queries):
