@@ -12,7 +12,11 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 **Contact for feedbacks and corrections**: rleitepacheco@hotmail.com
 
-**Disclaimer**: We did not develop any of the filters referenced in this compilation. We provided a direct reference from where filters where extracted. Please, cite the original source when using any of the filters available here.
+
+# Disclaimer
+
+We **did not** develop any of the filters referenced in this compilation. We provided a direct reference from where filters where extracted. Please, cite the original source when using any of the filters available here.
+
 
 # Useful resources for developing a search strategy
 
