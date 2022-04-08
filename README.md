@@ -60,3 +60,16 @@ https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 ** clinical queries systematic sb  https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html
 
+# 3) Economic filters
+
+**PUBMED**
+
+** CADTH - Economic Evaluations/Cost/Economic Models https://www.cadth.ca/strings-attached-cadths-database-search-filters
+
+** CADTH - Narrow Economic filter https://www.cadth.ca/strings-attached-cadths-database-search-filters
+
+# 4) Clinical Practice Guidelines
+
+**PUBMED**
+
+** CADTH - Guidelines https://www.cadth.ca/strings-attached-cadths-database-search-filters
