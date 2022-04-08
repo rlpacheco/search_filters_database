@@ -1,6 +1,6 @@
-# Search strategy filters
+# Search strategy filters compiled
 
-**Authors**: 
+**Organizators**: 
 
 Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina de Oliveira Cruz Latorraca [1,3] , Rachel Riera [1,3]
 
@@ -12,9 +12,11 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 **Contact for feedbacks and corrections**: rleitepacheco@hotmail.com
 
-# Useful resources
+**Disclaimer**: We did not develop any of the filters referenced in this compilation. We provided a direct reference from where filters where extracted. Please, cite the original source when using any of the filters available here.
 
-* References for multiple search filters
+# Useful resources for developing a search strategy
+
+* References for multiple search filters: 
 * https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
