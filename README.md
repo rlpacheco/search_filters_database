@@ -16,8 +16,12 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 # Useful resources for developing a search strategy
 
-* References for multiple search filters: 
+* References for multiple search filters from InterTASC Information Specialists' Sub-Group:
 * https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0
+
+* Busca em bases de dados eletrônicas da área da saúde: por onde começar
+* Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
+* https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1) Clinical trials / therapy filters
