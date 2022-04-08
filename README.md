@@ -38,6 +38,7 @@ https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser
 https://www.sign.ac.uk/what-we-do/methodology/search-filters/
 
 * Busca em bases de dados eletrônicas da área da saúde: por onde começar
+
 *Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
 
 https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
