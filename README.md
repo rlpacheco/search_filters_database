@@ -61,13 +61,13 @@ Sensitive 93% / Specific 97% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-stud
 
 # 2) Systematic reviews filters
 
-**Embase**
+**Embase via Elsevier**
 
-** [BMJ BEST PRACTICE](sr_Embase_BMJ) - free translation to elsevier from ovid filter:
+** [BMJ BEST PRACTICE](sr_Embase_BMJ) - free translation (not validated) to elsevier from ovid filter:
 
 https://bestpractice.bmj.com/info/toolkit/learn-ebm/study-design-search-filters/
 
-** [CADTH - free translation to elsevier from ovid filter](sr_Embase_CADTH):
+** [CADTH](sr_Embase_CADTH) - free translation (not validated) to elsevier from ovid filter:
 
 https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
