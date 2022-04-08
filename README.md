@@ -38,6 +38,8 @@ https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser
 https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Filters' original sources
+
 # 1) Clinical trials / therapy filters
 
 **PUBMED**
@@ -47,7 +49,6 @@ https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 ** clinical queries therapy narrow Sensitive 93% / Specific 97% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 2) Systematic reviews filters
 
 **Embase**
