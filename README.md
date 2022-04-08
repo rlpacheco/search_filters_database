@@ -1,4 +1,5 @@
-# Search_strategy_filters_database : A compilation of serach strategy filters
+# Search_strategy_filters_database 
+**A compilation of serach strategy filters**
 
 **Organizators**: 
 
