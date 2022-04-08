@@ -32,6 +32,11 @@ To compile relevant search filters commonly used in systematic reviews, overview
 
 https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0
 
+
+* References for multiple search filters from Scottish Intercollegiate Guideline Network (SIGN):
+
+https://www.sign.ac.uk/what-we-do/methodology/search-filters/
+
 * Busca em bases de dados eletrônicas da área da saúde: por onde começar
 *Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
 
