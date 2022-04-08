@@ -12,23 +12,30 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 **Contact for feedbacks and corrections**: rleitepacheco@hotmail.com
 
-# Objectives
-
-To compile relevant search filters commonly used in systematic reviews, overviews, other research synthesis and meta-epidemiological studies. All filter are presented in a single file. All you have to do is to copy the content of the file and past in the search engine from each database.
-
 # Disclaimer
 
 We **did not** develop any of the filters referenced in this compilation. We provided a direct reference from where filters where extracted. Please, cite the original source when using any of the filters available here.
 
+# Objectives
+
+To compile relevant search filters commonly used in systematic reviews, overviews, other research synthesis and meta-epidemiological studies. 
+
+# How to access the filters
+1) Select the filter you want to use from the list of files.
+2) Copy raw content. 
+3) Paste the content directly in the search engine of the relevant database. The filters are already converted in a one-sentence ready to run.
+4) Cite the original source that developed the filter (information bellow).
 
 # Useful resources for developing a search strategy
 
 * References for multiple search filters from InterTASC Information Specialists' Sub-Group:
-* https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0
+
+https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home?authuser=0
 
 * Busca em bases de dados eletrônicas da área da saúde: por onde começar
-* Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
-* https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
+*Latorraca COC, Rodrigues M, Pacheco RL, Martimbianco ALC, Riera R. Busca em bases de dados eletrônicas da área da saúde: por onde começar. Diagn Tratamento. 2019;24(2):59-63.
+
+https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1) Clinical trials / therapy filters
