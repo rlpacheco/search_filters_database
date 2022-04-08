@@ -50,33 +50,33 @@ https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 **PUBMED**
 
-** clinical queries therapy broad Sensitive 99% / Specific 70% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
+** [rct_PUBMED_therapy_broad_sensivel](clinical queries therapy broad) Sensitive 99% / Specific 70% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
 
-** clinical queries therapy narrow Sensitive 93% / Specific 97% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
+** [rct_PUBMED_therapy_narrow_especifico](clinical queries therapy narrow) Sensitive 93% / Specific 97% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
 
 
 # 2) Systematic reviews filters
 
 **Embase**
 
-** BMJ BEST PRACTICE - free translation to elsevier from ovid filter https://bestpractice.bmj.com/info/toolkit/learn-ebm/study-design-search-filters/
+** [sr_Embase_BMJ](BMJ BEST PRACTICE) - free translation to elsevier from ovid filter https://bestpractice.bmj.com/info/toolkit/learn-ebm/study-design-search-filters/
 
 ** CADTH - free translation to elsevier from ovid filter https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
 **PUBMED**
 
-** clinical queries systematic sb  https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html
+** [sr_PUBMED_clinical_queries](clinical queries systematic sb)  https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html
 
 # 3) Economic filters
 
 **PUBMED**
 
-** CADTH - Economic Evaluations/Cost/Economic Models https://www.cadth.ca/strings-attached-cadths-database-search-filters
+** [economic_PUBMED_CADTH_sensivel](CADTH - Economic Evaluations/Cost/Economic Models) https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
-** CADTH - Narrow Economic filter https://www.cadth.ca/strings-attached-cadths-database-search-filters
+** [economic_narrow_PUBMED_CADTH_especifico](CADTH - Narrow Economic filter) https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
 # 4) Clinical Practice Guidelines
 
 **PUBMED**
 
-** CADTH - Guidelines https://www.cadth.ca/strings-attached-cadths-database-search-filters
+** [guidelines_PUBMED_CADTH](CADTH - Guidelines) https://www.cadth.ca/strings-attached-cadths-database-search-filters
