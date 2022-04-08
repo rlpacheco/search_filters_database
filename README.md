@@ -50,7 +50,7 @@ https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
 **PUBMED**
 
-[rct_PUBMED_therapy_broad_sensivel](clinical queries therapy broad) Sensitive 99% / Specific 70% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
+[https://github.com/rlpacheco/search_filters/rct_PUBMED_therapy_broad_sensivel](clinical queries therapy broad) Sensitive 99% / Specific 70% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
 
 ** [rct_PUBMED_therapy_narrow_especifico](clinical queries therapy narrow) Sensitive 93% / Specific 97% https://pubmed.ncbi.nlm.nih.gov/help/#clinical-study-category-filters
 
