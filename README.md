@@ -12,6 +12,9 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 **Contact for feedbacks and corrections**: rleitepacheco@hotmail.com
 
+# Objectives
+
+To compile relevant search filters commonly used in systematic reviews, overviews, other research synthesis and meta-epidemiological studies. All filter are presented in a single file. All you have to do is to copy the content of the file and past in the search engine from each database.
 
 # Disclaimer
 
