@@ -23,7 +23,7 @@ To compile relevant search filters commonly used in systematic reviews, overview
 # How to access the filters
 1) Select the filter you want to use from the list of files.
 2) Copy raw content. 
-3) Paste the content directly in the search engine of the relevant database. The filters are already converted in a one-sentence ready to run.
+3) Paste the content directly in the search engine of the relevant database. The filters are already converted into an one-sentence ready to run format.
 4) Cite the original source that developed the filter (information bellow).
 
 # Useful resources for developing a search strategy
