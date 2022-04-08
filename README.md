@@ -43,6 +43,10 @@ https://www.sign.ac.uk/what-we-do/methodology/search-filters/
 
 https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf
 
+* Cochrane handbook Technical Supplement to Chapter 4: Searching for and selecting studies
+
+https://training.cochrane.org/handbook/current/chapter-04-technical-supplement-searching-and-selecting-studies
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Filters' original sources
 
