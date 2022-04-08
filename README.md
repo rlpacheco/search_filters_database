@@ -28,7 +28,7 @@ Rafael Leite Pacheco [1,2,3] , Ana Luiza Cabrera Martimbianco [1,4] , Carolina d
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 1) Systematic reviews filters
+# 2) Systematic reviews filters
 
 **Embase**
 
