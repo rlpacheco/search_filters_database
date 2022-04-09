@@ -86,8 +86,10 @@ https://bestpractice.bmj.com/info/toolkit/learn-ebm/study-design-search-filters/
 
 https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
-** [Side_filter_Embase](sr_Embase_side) - 'meta analysis'/de OR 'systematic review'/de
-Embase side filter available at embase.com (elsevier)
+** [Side_filter_Embase](sr_Embase_side) - Embase side filter available at embase.com (elsevier)
+
+'meta analysis'/de OR 'systematic review'/de
+
 
 
 **PUBMED**
