@@ -93,6 +93,10 @@ https://www.cadth.ca/strings-attached-cadths-database-search-filters
 
 https://www.nlm.nih.gov/bsd/pubmed_subsets/sysreviews_strategy.html
 
+** [CADTH - Systematic reviews and other synthesis](sr_PUBMED_CADTH):
+
+https://www.cadth.ca/strings-attached-cadths-database-search-filters
+
 # 3) Economic filters
 
 **PUBMED**
